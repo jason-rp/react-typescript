@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "react": "registry:npm/react#15.0.1+20170104200836",
+    "react-dom": "registry:npm/react-dom#15.0.1+20160826174104",
+    "react-router": "registry:npm/react-router#2.4.0+20160915183637"
+  },
+  "globalDependencies": {
+    "core-js": "registry:dt/core-js#0.9.7+20161130133742",
+    "whatwg-fetch": "registry:dt/whatwg-fetch#0.0.0+20161120230953",
+    "whatwg-streams": "registry:dt/whatwg-streams#0.0.0+20161214010628"
+  }
+}
